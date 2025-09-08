@@ -20,7 +20,7 @@
 - 📚 Constantly learning & sharing knowledge about **cyber defense**
 - 🚀 Exploring CTFs, Red Team tactics & Blue Team defense
 
----
+
 
 ## 🛠 Tech Stack
 <p align="center">
@@ -35,14 +35,14 @@
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Four-sec0nds&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight" height="150"/>
 </p>
----
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://t.me/Four_sec0nds">
